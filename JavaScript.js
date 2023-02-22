@@ -18,5 +18,5 @@ function NextPage()
 function GetLinks()
 {
     document.getElementById("Write Here").innerHTML=" <a href='https://scratch.mit.edu/projects/808234307/fullscreen/' target='_blank'>Robby's Fantastic Ending</a>"
-    document.getElementById("Write Here").innerHTML=" <a href='https://githhub1234567890.github.io/Robbys-Fantastic-Website/' target='_blank'>Robby's Fantastic Project</a>"
+    document.getElementById("Write Here1").innerHTML=" <a href='https://githhub1234567890.github.io/Robbys-Fantastic-Website/' target='_blank'>Robby's Fantastic Project</a>"
 }
